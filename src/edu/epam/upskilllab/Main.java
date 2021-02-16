@@ -12,6 +12,6 @@ public class Main {
         System.out.println("Please, enter your name:");
         String name = reader.readLine();
         reader.close();
-        System.out.println("Hello " + name);
+        System.out.println("Nice to meet you " + name);
     }
 }
