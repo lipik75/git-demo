@@ -1,5 +1,5 @@
 # git-demo
-Description:
+            Description:
 
 Create asimple program and share it on Gitlab. Add changes via creating a merge request.
 
@@ -7,13 +7,13 @@ Steps:
 
 Write a simple Java program that reads a name from the standard input and prints "Hello, name".
 
-            Init
+            Init:
 
-Init git repo;
+^Init git repo;
 
-Commit initial files;
+^Commit initial files;
 
-Share on Gitlab;
+^Share on Gitlab;
 
 
             Merge a feature:
